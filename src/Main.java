@@ -15,6 +15,8 @@ public class Main {
 
 
             System.out.println("hola");
-        }
+            System.out.println("otro");
+            System.out.println("1");
+            System.out.println("2");
     }
 }
